@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.search {
+    width: 60%;
+    height: 50px;
+}
+
+.table {
+    overflow-y: scroll;
+    width: fit-content;
+    height: 450px;
+    margin: 0px auto;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+th {
+    border-bottom: 1px solid black;
+    font-size: large;
+    width: 200px;
+}
+
+tr {
+    margin-bottom: 10px;
+    
+}
+
+
