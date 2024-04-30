@@ -1,0 +1,31 @@
+.cartDetails {
+    margin-top: 20px;
+    /* margin-left:50px; */
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.items {
+    width: 50%;
+    height: 450px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+.item {
+    display: flex;
+}
+table {
+    height: 300px;
+    width: 200px;
+}
+th {
+    text-align: start;
+}
+td {
+    text-align: end;
+}
+
+.img img {
+    height: 100px;
+    width: 100px;
+}

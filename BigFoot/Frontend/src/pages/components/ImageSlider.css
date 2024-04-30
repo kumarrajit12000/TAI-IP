@@ -1,0 +1,14 @@
+/* src/ImageSlider.scss */
+.image-slider {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .image-slider .slick-dots {
+    bottom: -30px;
+  }
+  .image-slider img {
+    width: 80%;
+    height: 200px;
+    margin: auto;
+  }
